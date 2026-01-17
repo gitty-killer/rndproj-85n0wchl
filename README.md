@@ -1,4 +1,2 @@
-# rndproj-85n0wchl
-
-Random java project for tools.
-
+# rndproj-85n0wchl\n\nMinimal HTTP API for status checks.\n
+New-FileDef

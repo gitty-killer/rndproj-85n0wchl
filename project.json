@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-85n0wchl"",
-  ""goal"": ""metrics summarizer for reporting"",
-  ""language"": ""node"",
-  ""template"": ""node-api""
+    "name":  "rndproj-85n0wchl",
+    "goal":  "metrics summarizer for reporting",
+    "language":  "node",
+    "template":  "node-api"
 }
